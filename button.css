@@ -1,0 +1,20 @@
+#A{padding: 10px;
+    border-radius: 10px;
+    border: blue(80,90);
+    background-color: springgreen;
+    border-style: dashed;
+    border-width: 5px;
+}
+#b{border: crimson(20%);
+    padding: 90px
+    border-radius: 10%;
+    ;
+    background-color: rgb(35, 207) ;
+}
+#c{background-color: darkred;
+    border: darkblue(80,50));
+    padding: 90px
+    border-radius: 10%;
+    ;
+;
+}
